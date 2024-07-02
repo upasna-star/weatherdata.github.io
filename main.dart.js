@@ -93340,7 +93340,7 @@ j.toString
 j.f.pd(A.uX(null,null,null,null,null,B.u,null,A.aR(A.mm(A.mg(m).c.a.h(0,"charset")).d4(0,k),null,null,null,null,null,null,null),null,B.dB,null,null,null,null,null,null,null,null,null))
 p.a3(new A.amK(p))}case 1:return A.J(q,r)}})
 return A.K($async$yh,r)},
-J(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.ug(0,A.lj("assets/images/login_bg.jpg",k,B.bk,k,k)),i=t.p,h=A.dG(A.b([new A.bq(B.h_,A.lj("./../assets/assets/images/awadh_logo.jpeg",k,B.bk,40,40),k)],i),B.S,B.hL,B.E,k),g=A.T(153,255,255,255),f=A.dG(A.b([A.b9(k,k,10),A.aR("Login",k,k,k,A.cy(k,k,k,k,k,k,k,k,k,k,k,24,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],i),B.S,B.A,B.E,k),e=A.b9(k,20,k),d=l.r?k:"Invalid email format"
+J(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.ug(0,A.lj("assets/images/login_bg.jpg",k,B.bk,k,k)),i=t.p,h=A.dG(A.b([new A.bq(B.h_,A.lj("./../assets/assets/images/awadh_logo3.png",k,B.bk,100,100),k)],i),B.S,B.hL,B.E,k),g=A.T(153,255,255,255),f=A.dG(A.b([A.b9(k,k,10),A.aR("Login",k,k,k,A.cy(k,k,k,k,k,k,k,k,k,k,k,24,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],i),B.S,B.A,B.E,k),e=A.b9(k,20,k),d=l.r?k:"Invalid email format"
 d=A.h3(!0,B.aC,!1,k,!0,B.u,k,A.hT(),l.d,k,k,k,k,k,2,A.fl(k,new A.d7(4,B.aX,B.bj),k,k,k,k,k,k,!0,k,k,k,k,k,d,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,"Email",k,k,k,k,k,k,k,k,k,k,k,k,k),B.L,!0,k,!0,k,!1,k,k,k,k,k,k,k,k,1,k,k,!1,"\u2022",k,k,k,k,k,!1,k,!1,k,!0,k,B.aO,k,k,B.aA,B.am,k,k,k,k,k,k,k,B.a3,k,B.b8,k,k,k,k)
 s=A.b9(k,20,k)
 r=A.h3(!0,B.aC,!1,k,!0,B.u,k,A.hT(),l.e,k,k,k,k,k,2,A.fl(k,new A.d7(4,B.aX,B.bj),k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,"Password",k,k,k,k,k,k,k,k,k,k,k,k,k),B.L,!0,k,!0,k,!1,k,k,k,k,k,k,k,k,1,k,k,!0,"\u2022",k,k,k,k,k,!1,k,!1,k,!0,k,B.aO,k,k,B.aA,B.am,k,k,k,k,k,k,k,B.a3,k,B.b8,k,k,k,k)
